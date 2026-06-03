@@ -110,7 +110,6 @@ vibe-traveling/
 **BrightyLudwig**
 
 - GitHub: [github.com/BrightyLudwig](https://github.com/BrightyLudwig)
-- Key: `SHA256:yE2rGMDGWK3ScxZdO79m2LKyxEENy9YfW2hTqyBGa1k`
 
 ---
 

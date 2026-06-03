@@ -2,7 +2,6 @@
 name: vibe-traveling
 description: AI travel planner — turn free-text travel ideas into complete day-by-day itineraries. Supports Chinese & English. 一句话生成完整旅行方案，默认中文。Use when users want to plan a trip, generate travel routes, or get destination recommendations.
 author: BrightyLudwig
-key: SHA256:yE2rGMDGWK3ScxZdO79m2LKyxEENy9YfW2hTqyBGa1k
 ---
 
 # Vibe Traveling ✈️
