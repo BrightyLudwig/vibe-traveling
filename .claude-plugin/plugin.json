@@ -1,0 +1,8 @@
+{
+  "name": "vibe-traveling",
+  "version": "1.0.0",
+  "description": "AI travel planner — turn free-text travel ideas into complete day-by-day itineraries. 一句话生成完整旅行方案，默认中文。",
+  "author": "BrightyLudwig",
+  "license": "MIT",
+  "skills": ["vibe-traveling"]
+}
